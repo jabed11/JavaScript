@@ -15,5 +15,5 @@
 let firstName = "Arman";
 
 console.log(firstName);
+
 console.log(`You are ${firstName}`);
-//name
